@@ -1,0 +1,32 @@
+h2 {
+	text-transform: capitalize;	
+	/*font-weight: bold;*/
+	font-size: 2.0rem;
+	color: darkblue;
+}
+
+h4 {
+	text-transform: uppercase;
+	color: #1F85DE;
+	letter-spacing: 0.2rem;
+}
+
+.one {
+	border-left: 5px solid #97999B;
+	padding-left: 5px;
+
+}
+body {
+	border: 15px solid #97999B;
+	margin: 20px auto;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+	
+
+hr {
+	    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));}
